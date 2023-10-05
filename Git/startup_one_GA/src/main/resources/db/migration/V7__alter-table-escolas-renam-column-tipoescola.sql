@@ -1,0 +1,1 @@
+alter table escolas rename column especialidade to tipoescola;
